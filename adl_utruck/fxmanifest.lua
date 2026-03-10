@@ -9,8 +9,7 @@ files {
     "ui/index.html",
     "ui/style.css",
     "ui/app.js",
-    "ui/assets/remote_shell.png",
-    "ui/assets/remote_buttons.png",
+    "ui/assets/*.png",
 }
 
 ui_page "ui/index.html"

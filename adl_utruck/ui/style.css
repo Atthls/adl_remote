@@ -53,18 +53,18 @@ body {
 
 /* Hueco circular superior: STOP */
 .icon-stop {
-  left: 40.3%;
-  top: 14.45%;
-  width: 19.3%;
-  height: 11.13%;
+  left: 37.6%;
+  top: 12.8%;
+  width: 24.8%;
+  height: 14.4%;
 }
 
 /* Hueco circular inferior: START */
 .icon-start {
-  left: 39.3%;
-  top: 52.7%;
-  width: 21.5%;
-  height: 12.3%;
+  left: 36.8%;
+  top: 50.2%;
+  width: 26.4%;
+  height: 15.4%;
 }
 
 .remote-button {
@@ -77,31 +77,31 @@ body {
    arriba-izquierda up, arriba-derecha down,
    abajo-izquierda west, abajo-derecha east */
 .button-up {
-  left: 33.1%;
-  top: 27.2%;
-  width: 14.0%;
-  height: 6.84%;
+  left: 28.9%;
+  top: 24.2%;
+  width: 21.8%;
+  height: 12.3%;
 }
 
 .button-down {
-  left: 51.8%;
-  top: 27.2%;
-  width: 15.9%;
-  height: 8.3%;
+  left: 48.4%;
+  top: 23.9%;
+  width: 22.3%;
+  height: 13.3%;
 }
 
 .button-west {
-  left: 33.1%;
-  top: 37.65%;
-  width: 14.0%;
-  height: 6.5%;
+  left: 28.8%;
+  top: 34.8%;
+  width: 21.9%;
+  height: 11.8%;
 }
 
 .button-east {
-  left: 51.8%;
-  top: 37.1%;
-  width: 15.9%;
-  height: 8.0%;
+  left: 48.5%;
+  top: 34.2%;
+  width: 22.2%;
+  height: 12.9%;
 }
 
 .remote-button.active {
